@@ -3,7 +3,7 @@ Play igotit from the command line.
 
 ## Installation
 
-To install this program, clone this repository using:
+To run this program, clone this repository using:
 
 ``` {shell}
 git clone https://github.com/hamishgibbs/igotit.git
