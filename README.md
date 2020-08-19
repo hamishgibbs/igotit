@@ -1,6 +1,14 @@
 # igotit
 Play igotit from the command line. Written in Python 3.7.6.
 
+- - - - - - -
+| X       X |
+|   X   X X |
+|     X     |
+| X X   X X |
+| X X       |
+- - - - - - -
+
 ## Installation
 
 To run this program, clone this repository using:
