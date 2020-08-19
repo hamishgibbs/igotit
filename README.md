@@ -1,5 +1,5 @@
 # igotit
-Play igotit from the command line.
+Play igotit from the command line. Written in Python 3.7.6.
 
 ## Installation
 
