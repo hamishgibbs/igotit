@@ -1,5 +1,9 @@
 # igotit
-Play igotit from the command line. Written in Python 3.7.6.
+Play igotit (an arcade game at the New York State Fair) from the command line.
+
+![](https://upload.wikimedia.org/wikipedia/en/0/0d/I_Got_It_Game.jpg?20080622170529)
+
+Written in Python 3.7.6.
 
 ## Installation
 
